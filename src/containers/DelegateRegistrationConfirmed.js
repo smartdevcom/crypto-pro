@@ -372,7 +372,9 @@ export default function DelegateRegistrationConfirmed() {
                            style={{ marginTop: -10 }}
                         >
                            <Grid key={value} item>
-                              <label className={classes.recommendedLabel}>Recommended</label>
+                              <label className={classes.recommendedLabel}>
+                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recommended
+                              </label>
                            </Grid>
                         </Grid>
                         <Typography id='discrete-slider-custom' gutterBottom style={{ marginTop: 24 }}>

@@ -7,6 +7,7 @@ import Delegate from './containers/Delegate';
 import ConfirmStake from './containers/ConfirmStake';
 import ManageStake from './containers/ManageStake';
 import RedeemStake from './containers/RedeemStake';
+
 import DelegateRegistrationConfirmed from './containers/DelegateRegistrationConfirmed';
 
 function App() {
