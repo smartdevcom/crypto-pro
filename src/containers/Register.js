@@ -32,6 +32,8 @@ const useStyles = makeStyles(theme => ({
    }
 }));
 
+//return Register
+
 export default function Register() {
    const classes = useStyles();
    const [open, setOpen] = useState(false);
