@@ -39,6 +39,8 @@ const useStyles = makeStyles(theme => ({
    }
 }));
 
+//manage stack using react hooks
+
 export default function ManageStake() {
    const classes = useStyles();
    const [open, setOpen] = useState(false);
