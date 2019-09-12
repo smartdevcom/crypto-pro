@@ -32,7 +32,7 @@ const useStyles = makeStyles(theme => ({
    }
 }));
 
-//return Register
+//return Register using react hooks
 
 export default function Register() {
    const classes = useStyles();
