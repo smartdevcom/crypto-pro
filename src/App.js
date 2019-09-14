@@ -13,14 +13,14 @@ import DelegateRegistrationConfirmed from './containers/DelegateRegistrationConf
 function App() {
    return (
       <div className='App'>
-         <Login></Login>
-         <Register></Register>
-         <RegisterDelegate></RegisterDelegate>
-         <SearchDelegate></SearchDelegate>
-         <Delegate></Delegate>
-         <ConfirmStake></ConfirmStake>
-         <ManageStake></ManageStake>
-         <RedeemStake></RedeemStake>
+         // <Login></Login>
+         // <Register></Register>
+         // <RegisterDelegate></RegisterDelegate>
+         // <SearchDelegate></SearchDelegate>
+         // <Delegate></Delegate>
+         // <ConfirmStake></ConfirmStake>
+         // <ManageStake></ManageStake>
+         // <RedeemStake></RedeemStake>
          <DelegateRegistrationConfirmed></DelegateRegistrationConfirmed>
       </div>
    );
